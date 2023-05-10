@@ -11,7 +11,7 @@ const directoryStyles = path.join(__dirname, "styles")
 const cssBundle = path.join(__dirname, "project-dist", "style.css")
 const assetsDirectory = path.join(__dirname, "project-dist", "assets")
 const templateHtml = path.join(__dirname, "template.html")
-const copyTemplateHtml = path.join(__dirname, "project-dist", "template.html")
+const copyTemplateHtml = path.join(__dirname, "project-dist", "index.html")
 const componentsDirectory = path.join(__dirname, "components")
 
 let components = {}
